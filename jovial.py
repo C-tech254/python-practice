@@ -1,0 +1,1 @@
+print("i'm new to python, i wanna be special and stand out from the crowd") 
